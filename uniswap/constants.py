@@ -26,6 +26,7 @@ _netid_to_name = {
     56: "binance",
     97: "binance_testnet",
     137: "polygon",
+    80001: "polygon_testnet",
     100: "xdai",
     250: "fantom",
     42161: "arbitrum",
